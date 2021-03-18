@@ -1,8 +1,34 @@
 .navbar-nav {
-float: none;
-text-align: center;
-}
+    float:none;
+    text-align:center;
+    }
+    
 .navbar-nav li {
-float: none;
-display: inline-block;
+    float:none;
+    display:inline-block;
+    }
+    
+h1,h5,h6,a,p,button {
+    font-family:Rubik, sans-serif;
+    }
+ul {
+    list-style-type: none;
+    }
+a  {
+    color:rgba(0,0,0,.5)
+    }
+a:hover {
+    text-decoration: none;
+    }
+.text-center {
+    text-align:  center;
+    }
+.div-sign {
+    display: inline-block;
+    }
+/*nav{
+    position:fixed;
+}*/
+b-cent{
+    text-align: center;
 }
