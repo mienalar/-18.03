@@ -1,0 +1,8 @@
+.navbar-nav {
+float: none;
+text-align: center;
+}
+.navbar-nav li {
+float: none;
+display: inline-block;
+}
